@@ -15,7 +15,7 @@
     "headless": "cypress run"
   },
   "dependencies": {
-    "cypress": "^4.12.1",
-    "yargs": "^15.4.1"
+    "cypress": "^9.4.1",
+    "yargs": "^17.3.1"
   }
 }
