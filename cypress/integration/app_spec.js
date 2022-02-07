@@ -1,4 +1,4 @@
-describe('React TodoMVC', () => {
+describe('TodoMVC App', () => {
 
   const todoFixtures = [
     'Unit Testing',
